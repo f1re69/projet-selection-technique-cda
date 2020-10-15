@@ -6,6 +6,7 @@ npm install && npm start
 ```
 ## URLS
 | Methods | Urls | Actions |
+| --- | --- | --- |
 | `GET` | /topics | get all topics |
 | `GET` | /topics/1 | get topic with id=1 |
 | `GET` | /topics/1/post/1 | get post with id=1 of the topic with id=1 |
