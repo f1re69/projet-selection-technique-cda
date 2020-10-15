@@ -1,0 +1,31 @@
+{
+  "name": "projet-selection-technique-cda",
+  "version": "1.0.0",
+  "description": "realisation of the exercice selection-cda",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f1re69/projet-selection-technique-cda.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi"
+  ],
+  "author": "Khelil Bezzouh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f1re69/projet-selection-technique-cda/issues"
+  },
+  "homepage": "https://github.com/f1re69/projet-selection-technique-cda#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.5"
+  }
+}
